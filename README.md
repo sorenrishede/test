@@ -1,2 +1,4 @@
 # test
-intro til githyb
+intro til GitHub
+
+[Multimusen] (http://multimusen.dk)
