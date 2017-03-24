@@ -1,5 +1,5 @@
 # test
-intro til GitHub
+Intro til GitHub
 
 ## Jeg er en h2
 
