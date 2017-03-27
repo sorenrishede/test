@@ -6,3 +6,5 @@ Intro til GitHub
 [Multimusen](http://multimusen.dk)
 
 [sorenrishede](http://sorenrishede.dk)
+
+Vi har det godt!
